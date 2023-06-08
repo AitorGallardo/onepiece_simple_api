@@ -1,6 +1,7 @@
 {
   "east_blue_pirate_crews": [
     {
+      "id":1,
       "name": "Straw Hat Pirates",
       "members": [
         {
@@ -69,6 +70,7 @@
       ]
     },
     {
+      "id":2,
       "name": "Buggy Pirates",
       "members": [
         {
@@ -137,6 +139,7 @@
       ]
     },
     {
+      "id":3,
       "name": "Black Cat Pirates",
       "members": [
         {
@@ -205,6 +208,7 @@
       ]
     },
     {
+      "id":4,
       "name": "Krieg Pirates",
       "members": [
         {
@@ -266,6 +270,7 @@
       ]
     },
     {
+      "id":5,
       "name": "Yes Pirates",
       "members": [
         {
@@ -292,6 +297,7 @@
       ]
     },
     {
+      "id":6,
       "name": "Bluejam Pirates",
       "members": [
         {
@@ -311,6 +317,7 @@
       ]
     },
     {
+      "id":7,
       "name": "Bartolo Club Pirates",
       "members": [
         {
@@ -351,6 +358,7 @@
       ]
     },
     {
+      "id":8,
       "name": "Gally Pirates",
       "members": [
         {
