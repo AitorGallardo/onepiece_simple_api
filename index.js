@@ -12,9 +12,11 @@ app.use(apiKeyMiddleware);
 app.get('/api/', (req, res) => {
   res.status(200).json({ message: 'Success.' });
 });
+
 app.get('/api/crews', (req, res) => {
   res.json(data);
 });
+
 app.get('/api/crews/:id', (req, res) => {
   const { id } = req.params;
   const arr = Object.values(data)[0];
@@ -23,7 +25,7 @@ app.get('/api/crews/:id', (req, res) => {
   res.json(crew);
 });
 
-const port = 3000; // Replace with the desired port number
+const port = 3000;
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
