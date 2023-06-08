@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# macOS specific files
+.DS_Store
+
+# Compiled binary files (e.g., executables, binaries)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Operating System files
+Thumbs.db
