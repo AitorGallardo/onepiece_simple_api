@@ -58,7 +58,7 @@
           "bounty": 130000000,
           "devil_fruit": "Hana Hana no Mi",
           "avg_power": 70,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/robin.webp"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nico_robin.webp"
         },
         {
           "name": "Franky",
@@ -399,7 +399,7 @@
           "img":""
         },
         {
-          "name": "Member2",
+          "name": "Member1",
           "description": "First Mate of the Gally Pirates.",
           "bounty": 0,
           "devil_fruit": "None",
