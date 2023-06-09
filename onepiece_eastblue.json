@@ -150,7 +150,7 @@
           "bounty": 20000000,
           "devil_fruit": "None",
           "avg_power": 60,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/kuro.webp"
         },
         {
           "name": "Jango",
@@ -158,7 +158,7 @@
           "bounty": 9000000,
           "devil_fruit": "None",
           "avg_power": 45,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/jango.webp"
         },
         {
           "name": "Sham",
@@ -166,7 +166,7 @@
           "bounty": 5000000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/sham.webp"
         },
         {
           "name": "Buchi",
@@ -174,7 +174,7 @@
           "bounty": 5000000,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/buchi.webp"
         },
         {
           "name": "Nugire Yainu",
@@ -182,7 +182,7 @@
           "bounty": 4000000,
           "devil_fruit": "None",
           "avg_power": 30,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nugire.webp"
         },
         {
           "name": "Tajio",
@@ -190,31 +190,7 @@
           "bounty": 1000000,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":""
-        },
-        {
-          "name": "Butchie",
-          "description": "Crew member of the Black Cat Pirates, known for his muscular build and proficiency in close-quarter combat.",
-          "bounty": 1000000,
-          "devil_fruit": "None",
-          "avg_power": 35,
-          "img":""
-        },
-        {
-          "name": "Patty",
-          "description": "Crew member of the Black Cat Pirates, often seen wearing a chef's hat and providing culinary expertise to the crew.",
-          "bounty": 1000000,
-          "devil_fruit": "None",
-          "avg_power": 25,
-          "img":""
-        },
-        {
-          "name": "Carne",
-          "description": "Crew member of the Black Cat Pirates, often seen wearing a butcher's apron and wielding a meat cleaver in combat.",
-          "bounty": 1000000,
-          "devil_fruit": "None",
-          "avg_power": 30,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/tajio.webp"
         }
       ]
     },
@@ -228,63 +204,47 @@
           "bounty": 17000000,
           "devil_fruit": "None",
           "avg_power": 60,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/krieg.webp"
         },
         {
           "name": "Gin",
           "description": "First mate of the Krieg Pirates, known for his loyalty to Don Krieg and his skills as a swordsman.",
-          "bounty": 7000000,
+          "bounty": 12000000,
           "devil_fruit": "None",
           "avg_power": 50,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gin.webp"
         },
         {
           "name": "Pearl",
           "description": "Crew member of the Krieg Pirates, known for his large size, brute strength, and the ability to inflate his body.",
-          "bounty": 4800000,
+          "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 45,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/pearl.webp"
         },
         {
-          "name": "Ginrummy",
-          "description": "Crew member of the Krieg Pirates and a female pirate with a calm demeanor, known for her skills in martial arts.",
-          "bounty": 1200000,
-          "devil_fruit": "None",
-          "avg_power": 40,
-          "img":""
-        },
-        {
-          "name": "Chess",
+          "name": "Ideaman",
           "description": "Crew member of the Krieg Pirates, known for his strategic thinking and serving as one of Krieg's combat commanders.",
-          "bounty": 900000,
+          "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":""
-        },
-        {
-          "name": "Kuroobi",
-          "description": "Crew member of the Krieg Pirates and a fishman, skilled in underwater combat and utilizing martial arts techniques.",
-          "bounty": 770000,
-          "devil_fruit": "None",
-          "avg_power": 40,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/ideaman.webp"
         },
         {
           "name": "Patty",
           "description": "Crew member of the Krieg Pirates, often seen wearing a cook's apron and providing culinary skills to the crew.",
-          "bounty": 700000,
+          "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 25,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/patty.webp"
         },
         {
           "name": "Carne",
           "description": "Crew member of the Krieg Pirates, often seen wearing a butcher's apron and wielding a large cleaver in combat.",
-          "bounty": 700000,
+          "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 30,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/carne.webp"
         }
       ]
     },
@@ -298,7 +258,7 @@
           "bounty": 3000000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/billy.webp"
         },
         {
           "name": "Koze",
@@ -306,7 +266,7 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 20,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/koze.webp"
         },
         {
           "name": "Packy",
@@ -314,7 +274,7 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 20,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/packy.webp"
         }
       ]
     },
@@ -328,7 +288,7 @@
           "bounty": 14300000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/bluejam.webp"
         },
         {
           "name": "Porchemy",
@@ -336,7 +296,7 @@
           "bounty": 3400000,
           "devil_fruit": "None",
           "avg_power": 30,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/alvida.webp"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/porchemy.webp"
         }
       ]
     },
@@ -350,7 +310,7 @@
           "bounty": 150000000,
           "devil_fruit": "Bari Bari no Mi (Barrier-Barrier Fruit)",
           "avg_power": 80,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/bartolomeo.webp"
         },
         {
           "name": "Gambia",
@@ -358,31 +318,7 @@
           "bounty": 6000000,
           "devil_fruit": "None",
           "avg_power": 70,
-          "img":""
-        },
-        {
-          "name": "Bomba",
-          "description": "Member of the Barto Club, a skilled martial artist specializing in explosive attacks.",
-          "bounty": 4000000,
-          "devil_fruit": "None",
-          "avg_power": 65,
-          "img":""
-        },
-        {
-          "name": "Canbart",
-          "description": "Member of the Barto Club, a sneaky and agile fighter who excels in stealthy maneuvers.",
-          "bounty": 3000000,
-          "devil_fruit": "None",
-          "avg_power": 60,
-          "img":""
-        },
-        {
-          "name": "Bartello",
-          "description": "Member of the Barto Club, a strong and resilient fighter with exceptional endurance.",
-          "bounty": 2000000,
-          "devil_fruit": "None",
-          "avg_power": 55,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gambia.webp"
         }
       ]
     },
@@ -396,7 +332,7 @@
           "bounty": 3450000,
           "devil_fruit": "None",
           "avg_power": 20,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally.webp"
         },
         {
           "name": "Member1",
@@ -404,7 +340,7 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 15,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally_member1.webp"
         },
         {
           "name": "Member2",
@@ -412,7 +348,7 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 15,
-          "img":""
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally_member2.webp"
         }
       ]
     }
