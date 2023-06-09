@@ -10,7 +10,7 @@
           "bounty": 1500000000,
           "devil_fruit": "Gomu Gomu no Mi",
           "avg_power": 90,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/d/da/Tercera_vestimenta_de_Luffy_en_Wano_en_el_anime.png/revision/latest/scale-to-width-down/120?cb=20210606171356&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/luffy.webp"
         },
         {
           "name": "Roronoa Zoro",
@@ -18,7 +18,7 @@
           "bounty": 320000000,
           "devil_fruit": "None",
           "avg_power": 85,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/2/21/Tercera_vestimenta_de_Zoro_en_Wano.png/revision/latest?cb=20211122165909&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/zoro.webp"
         },
         {
           "name": "Nami",
@@ -26,7 +26,7 @@
           "bounty": 66000000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/5/58/Cuarta_vestimenta_de_Nami_en_Wano.png/revision/latest?cb=20210705140426&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nami.webp"
         },
         {
           "name": "Usopp",
@@ -34,7 +34,7 @@
           "bounty": 200000000,
           "devil_fruit": "None",
           "avg_power": 55,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/6/64/Segunda_vestimenta_de_Usopp_en_Wano.png/revision/latest?cb=20210613183818&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/usopp.webp"
         },
         {
           "name": "Sanji",
@@ -42,7 +42,7 @@
           "bounty": 330000000,
           "devil_fruit": "None",
           "avg_power": 80,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/f/fa/Cuarta_vestimenta_de_Sanji_en_Wano.png/revision/latest?cb=20211216130957&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/sanji.webp"
         },
         {
           "name": "Tony Tony Chopper",
@@ -50,7 +50,7 @@
           "bounty": 100,
           "devil_fruit": "Hito Hito no Mi",
           "avg_power": 50,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/5/58/Tony_Tony_Chopper_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130629130823&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/chopper.webp"
         },
         {
           "name": "Nico Robin",
@@ -58,7 +58,7 @@
           "bounty": 130000000,
           "devil_fruit": "Hana Hana no Mi",
           "avg_power": 70,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/9/9a/Nico_Robin_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/257?cb=20200902132447&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/robin.webp"
         },
         {
           "name": "Franky",
@@ -66,7 +66,7 @@
           "bounty": 94000000,
           "devil_fruit": "None",
           "avg_power": 75,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/a/a5/Franky_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20121220031313&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/franky.webp"
         },
         {
           "name": "Brook",
@@ -74,7 +74,7 @@
           "bounty": 83000000,
           "devil_fruit": "Yomi Yomi no Mi",
           "avg_power": 65,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/0/06/Brook_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/214?cb=20200323143522&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/brook.webp"
         }
       ]
     },
@@ -88,7 +88,7 @@
           "bounty": 150000000,
           "devil_fruit": "Bara Bara no Mi",
           "avg_power": 60,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/3/3c/Vestimenta_completa_de_Buggy.png/revision/latest/scale-to-width-down/1000?cb=20160808184837&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/buggy.webp"
         },
         {
           "name": "Alvida",
@@ -96,7 +96,7 @@
           "bounty": 52000000,
           "devil_fruit": "Sube Sube no Mi",
           "avg_power": 45,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest/scale-to-width-down/227?cb=20130715212930&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/alvida.webp"
         },
         {
           "name": "Mohji",
@@ -104,7 +104,7 @@
           "bounty": 92000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/8/8d/Mohji_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20201101232117&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/mohji.webp"
         },
         {
           "name": "Cabaji",
@@ -112,7 +112,7 @@
           "bounty": 79000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/6/6c/Cabaji_Anime_Infobox.png/revision/latest?cb=20211023104451&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/cabaji.webp"
         },
         {
           "name": "Richie",
@@ -120,7 +120,7 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/d/d9/Richie_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20201101232800&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/richie.webp"
         },
         {
           "name": "Galdino",
@@ -128,7 +128,7 @@
           "bounty": 95000000,
           "devil_fruit": "Doru Doru no Mi",
           "avg_power": 60,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest?cb=20130819151657&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/galdino.webp"
         },
         {
           "name": "Kinoko",
@@ -136,7 +136,7 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 50,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/2/25/Kinoko_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20190702140423&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/kinoko.webp"
         }
       ]
     },
@@ -336,7 +336,7 @@
           "bounty": 3400000,
           "devil_fruit": "None",
           "avg_power": 30,
-          "img":"https://static.wikia.nocookie.net/onepiece/images/2/25/Porchemy_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20160920190331&path-prefix=es"
+          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/alvida.webp"
         }
       ]
     },
