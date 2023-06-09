@@ -5,6 +5,13 @@ const data = require('./onepiece_eastblue.json'); // Replace 'data.json' with th
 
 require('dotenv').config();
 
+const arr = Object.values(data)[0];
+const amountOfPirates = arr.reduce(
+  (accumulator, currentValue) => accumulator + currentValue.members.length,
+  0,
+);
+console.log('pirate',amountOfPirates);
+
 const apiKeyMiddleware = require('./middlewares');
 
 const app = express();
