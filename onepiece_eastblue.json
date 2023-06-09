@@ -9,63 +9,72 @@
           "description": "Captain of the Straw Hat Pirates with a dream to become the Pirate King.",
           "bounty": 1500000000,
           "devil_fruit": "Gomu Gomu no Mi",
-          "avg_power": 90
+          "avg_power": 90,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/d/da/Tercera_vestimenta_de_Luffy_en_Wano_en_el_anime.png/revision/latest/scale-to-width-down/120?cb=20210606171356&path-prefix=es"
         },
         {
           "name": "Roronoa Zoro",
           "description": "Swordsman and first mate of the Straw Hat Pirates, seeking to become the world's greatest swordsman.",
           "bounty": 320000000,
           "devil_fruit": "None",
-          "avg_power": 85
+          "avg_power": 85,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/2/21/Tercera_vestimenta_de_Zoro_en_Wano.png/revision/latest?cb=20211122165909&path-prefix=es"
         },
         {
           "name": "Nami",
           "description": "Navigator of the Straw Hat Pirates with exceptional navigation and weather prediction skills.",
           "bounty": 66000000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/5/58/Cuarta_vestimenta_de_Nami_en_Wano.png/revision/latest?cb=20210705140426&path-prefix=es"
         },
         {
           "name": "Usopp",
           "description": "Sniper and sharpshooter of the Straw Hat Pirates, known for his tall tales and marksmanship.",
           "bounty": 200000000,
           "devil_fruit": "None",
-          "avg_power": 55
+          "avg_power": 55,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/6/64/Segunda_vestimenta_de_Usopp_en_Wano.png/revision/latest?cb=20210613183818&path-prefix=es"
         },
         {
           "name": "Sanji",
           "description": "Cook and fighter of the Straw Hat Pirates, possessing incredible culinary skills and a powerful fighting style.",
           "bounty": 330000000,
           "devil_fruit": "None",
-          "avg_power": 80
+          "avg_power": 80,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/f/fa/Cuarta_vestimenta_de_Sanji_en_Wano.png/revision/latest?cb=20211216130957&path-prefix=es"
         },
         {
           "name": "Tony Tony Chopper",
           "description": "Doctor and reindeer of the Straw Hat Pirates, able to transform into different forms with the Human-Human Fruit.",
           "bounty": 100,
           "devil_fruit": "Hito Hito no Mi",
-          "avg_power": 50
+          "avg_power": 50,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/5/58/Tony_Tony_Chopper_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130629130823&path-prefix=es"
         },
         {
           "name": "Nico Robin",
           "description": "Archaeologist and former assassin of the Straw Hat Pirates, seeking knowledge about the world's history.",
           "bounty": 130000000,
           "devil_fruit": "Hana Hana no Mi",
-          "avg_power": 70
+          "avg_power": 70,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/9/9a/Nico_Robin_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/257?cb=20200902132447&path-prefix=es"
         },
         {
           "name": "Franky",
           "description": "Shipwright and cyborg of the Straw Hat Pirates, known for his engineering skills and battle capabilities.",
           "bounty": 94000000,
           "devil_fruit": "None",
-          "avg_power": 75
+          "avg_power": 75,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/a/a5/Franky_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20121220031313&path-prefix=es"
         },
         {
           "name": "Brook",
           "description": "Musician and swordsman of the Straw Hat Pirates, a living skeleton with the power of the Revive-Revive Fruit.",
           "bounty": 83000000,
           "devil_fruit": "Yomi Yomi no Mi",
-          "avg_power": 65
+          "avg_power": 65,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/0/06/Brook_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/214?cb=20200323143522&path-prefix=es"
         }
       ]
     },
@@ -78,63 +87,56 @@
           "description": "Captain of the Buggy Pirates and former member of the Roger Pirates, known for his split personality and the ability to separate his body parts.",
           "bounty": 150000000,
           "devil_fruit": "Bara Bara no Mi",
-          "avg_power": 60
+          "avg_power": 60,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/3/3c/Vestimenta_completa_de_Buggy.png/revision/latest/scale-to-width-down/1000?cb=20160808184837&path-prefix=es"
         },
         {
           "name": "Alvida",
           "description": "Former captain of the Alvida Pirates and member of the Buggy Pirates, possessing the ability to make her body slippery with the Sube Sube no Mi.",
           "bounty": 52000000,
           "devil_fruit": "Sube Sube no Mi",
-          "avg_power": 45
+          "avg_power": 45,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest/scale-to-width-down/227?cb=20130715212930&path-prefix=es"
         },
         {
           "name": "Mohji",
           "description": "Crew member of the Buggy Pirates and captain of the Buggy's Delivery service, known for his lion-like appearance and his pet lion Richie.",
           "bounty": 92000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/8/8d/Mohji_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20201101232117&path-prefix=es"
         },
         {
           "name": "Cabaji",
           "description": "Crew member of the Buggy Pirates and a skilled swordsman, often seen wearing a clown-like outfit and riding a unicycle.",
           "bounty": 79000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/6/6c/Cabaji_Anime_Infobox.png/revision/latest?cb=20211023104451&path-prefix=es"
         },
         {
           "name": "Richie",
           "description": "Pet lion of the Buggy Pirates, loyal to Mohji and known for its ferociousness in battle.",
           "bounty": 0,
           "devil_fruit": "None",
-          "avg_power": 35
+          "avg_power": 35,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/d/d9/Richie_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest/scale-to-width-down/350?cb=20201101232800&path-prefix=es"
         },
         {
           "name": "Galdino",
           "description": "Also known as Mr. 3, a former officer agent of Baroque Works and member of the Buggy Pirates, skilled in wax manipulation and creating various weapons.",
           "bounty": 95000000,
           "devil_fruit": "Doru Doru no Mi",
-          "avg_power": 60
+          "avg_power": 60,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest?cb=20130819151657&path-prefix=es"
         },
         {
           "name": "Kinoko",
           "description": "Mushroom-shaped crew member of the Buggy Pirates, known for his fungi-based abilities and his loyalty to Buggy.",
           "bounty": 0,
           "devil_fruit": "None",
-          "avg_power": 50
-        },
-        {
-          "name": "Kabaji",
-          "description": "Swordsman and crew member of the Buggy Pirates, often seen wearing a kabuki mask and known for his acrobatic skills.",
-          "bounty": 79000,
-          "devil_fruit": "None",
-          "avg_power": 30
-        },
-        {
-          "name": "Moha",
-          "description": "Crew member of the Buggy Pirates, often seen wearing a turban and known for his skill with knives.",
-          "bounty": 0,
-          "devil_fruit": "None",
-          "avg_power": 30
+          "avg_power": 50,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/2/25/Kinoko_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20190702140423&path-prefix=es"
         }
       ]
     },
@@ -147,63 +149,72 @@
           "description": "Former captain of the Black Cat Pirates, also known as 'Kuro of a Hundred Plans', known for his intelligence, agility, and ruthless tactics.",
           "bounty": 20000000,
           "devil_fruit": "None",
-          "avg_power": 60
+          "avg_power": 60,
+          "img":""
         },
         {
           "name": "Jango",
           "description": "Crew member of the Black Cat Pirates and hypnotist, often seen alongside Kuro, capable of putting his enemies to sleep with his hypnotic abilities.",
           "bounty": 9000000,
           "devil_fruit": "None",
-          "avg_power": 45
+          "avg_power": 45,
+          "img":""
         },
         {
           "name": "Sham",
           "description": "Crew member of the Black Cat Pirates and skilled martial artist, often seen in a wrestling mask and utilizing his acrobatic moves in combat.",
           "bounty": 5000000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":""
         },
         {
           "name": "Buchi",
           "description": "Crew member of the Black Cat Pirates, often seen wearing a bunny suit and using his brute strength in battle.",
           "bounty": 5000000,
           "devil_fruit": "None",
-          "avg_power": 35
+          "avg_power": 35,
+          "img":""
         },
         {
           "name": "Nugire Yainu",
           "description": "Crew member of the Black Cat Pirates, known for his wild appearance and fierce loyalty to Kuro.",
           "bounty": 4000000,
           "devil_fruit": "None",
-          "avg_power": 30
+          "avg_power": 30,
+          "img":""
         },
         {
           "name": "Tajio",
           "description": "Crew member of the Black Cat Pirates, often seen wearing a bandana and utilizing his marksmanship skills in combat.",
           "bounty": 1000000,
           "devil_fruit": "None",
-          "avg_power": 35
+          "avg_power": 35,
+          "img":""
         },
         {
           "name": "Butchie",
           "description": "Crew member of the Black Cat Pirates, known for his muscular build and proficiency in close-quarter combat.",
           "bounty": 1000000,
           "devil_fruit": "None",
-          "avg_power": 35
+          "avg_power": 35,
+          "img":""
         },
         {
           "name": "Patty",
           "description": "Crew member of the Black Cat Pirates, often seen wearing a chef's hat and providing culinary expertise to the crew.",
           "bounty": 1000000,
           "devil_fruit": "None",
-          "avg_power": 25
+          "avg_power": 25,
+          "img":""
         },
         {
           "name": "Carne",
           "description": "Crew member of the Black Cat Pirates, often seen wearing a butcher's apron and wielding a meat cleaver in combat.",
           "bounty": 1000000,
           "devil_fruit": "None",
-          "avg_power": 30
+          "avg_power": 30,
+          "img":""
         }
       ]
     },
@@ -216,56 +227,64 @@
           "description": "Captain of the Krieg Pirates, known as the 'Pirate Admiral,' wearing a distinctive iron mask and leading a large fleet of ships.",
           "bounty": 17000000,
           "devil_fruit": "None",
-          "avg_power": 60
+          "avg_power": 60,
+          "img":""
         },
         {
           "name": "Gin",
           "description": "First mate of the Krieg Pirates, known for his loyalty to Don Krieg and his skills as a swordsman.",
           "bounty": 7000000,
           "devil_fruit": "None",
-          "avg_power": 50
+          "avg_power": 50,
+          "img":""
         },
         {
           "name": "Pearl",
           "description": "Crew member of the Krieg Pirates, known for his large size, brute strength, and the ability to inflate his body.",
           "bounty": 4800000,
           "devil_fruit": "None",
-          "avg_power": 45
+          "avg_power": 45,
+          "img":""
         },
         {
           "name": "Ginrummy",
           "description": "Crew member of the Krieg Pirates and a female pirate with a calm demeanor, known for her skills in martial arts.",
           "bounty": 1200000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":""
         },
         {
           "name": "Chess",
           "description": "Crew member of the Krieg Pirates, known for his strategic thinking and serving as one of Krieg's combat commanders.",
           "bounty": 900000,
           "devil_fruit": "None",
-          "avg_power": 35
+          "avg_power": 35,
+          "img":""
         },
         {
           "name": "Kuroobi",
           "description": "Crew member of the Krieg Pirates and a fishman, skilled in underwater combat and utilizing martial arts techniques.",
           "bounty": 770000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":""
         },
         {
           "name": "Patty",
           "description": "Crew member of the Krieg Pirates, often seen wearing a cook's apron and providing culinary skills to the crew.",
           "bounty": 700000,
           "devil_fruit": "None",
-          "avg_power": 25
+          "avg_power": 25,
+          "img":""
         },
         {
           "name": "Carne",
           "description": "Crew member of the Krieg Pirates, often seen wearing a butcher's apron and wielding a large cleaver in combat.",
           "bounty": 700000,
           "devil_fruit": "None",
-          "avg_power": 30
+          "avg_power": 30,
+          "img":""
         }
       ]
     },
@@ -278,21 +297,24 @@
           "description": "Captain of the Yes Pirates, he had one of the fifty Ryo Wazamono grade swords, Yamaoroshi.",
           "bounty": 3000000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":""
         },
         {
           "name": "Koze",
           "description": "Thin and tall man with short purple hair, a wide mouth and his tongue sticking out.",
           "bounty": 0,
           "devil_fruit": "None",
-          "avg_power": 20
+          "avg_power": 20,
+          "img":""
         },
         {
           "name": "Packy",
           "description": "A bulky and muscular man with brown hair tied in braided pigtails.",
           "bounty": 0,
           "devil_fruit": "None",
-          "avg_power": 20
+          "avg_power": 20,
+          "img":""
         }
       ]
     },
@@ -305,14 +327,16 @@
           "description": "Captain of the Bluejam Pirates, known for his ruthless and violent nature.",
           "bounty": 14300000,
           "devil_fruit": "None",
-          "avg_power": 40
+          "avg_power": 40,
+          "img":""
         },
         {
           "name": "Porchemy",
           "description": "Member of the Bluejam Pirates, a large and powerful pirate known for his strength and loyalty to Bluejam.",
           "bounty": 3400000,
           "devil_fruit": "None",
-          "avg_power": 30
+          "avg_power": 30,
+          "img":"https://static.wikia.nocookie.net/onepiece/images/2/25/Porchemy_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20160920190331&path-prefix=es"
         }
       ]
     },
@@ -325,35 +349,40 @@
           "description": "Captain of the Barto Club, known for his fierce loyalty to Monkey D. Luffy and his defensive barrier abilities.",
           "bounty": 150000000,
           "devil_fruit": "Bari Bari no Mi (Barrier-Barrier Fruit)",
-          "avg_power": 80
+          "avg_power": 80,
+          "img":""
         },
         {
           "name": "Gambia",
           "description": "Member of the Barto Club, a muscular and powerful fighter with incredible physical strength.",
           "bounty": 6000000,
           "devil_fruit": "None",
-          "avg_power": 70
+          "avg_power": 70,
+          "img":""
         },
         {
           "name": "Bomba",
           "description": "Member of the Barto Club, a skilled martial artist specializing in explosive attacks.",
           "bounty": 4000000,
           "devil_fruit": "None",
-          "avg_power": 65
+          "avg_power": 65,
+          "img":""
         },
         {
           "name": "Canbart",
           "description": "Member of the Barto Club, a sneaky and agile fighter who excels in stealthy maneuvers.",
           "bounty": 3000000,
           "devil_fruit": "None",
-          "avg_power": 60
+          "avg_power": 60,
+          "img":""
         },
         {
           "name": "Bartello",
           "description": "Member of the Barto Club, a strong and resilient fighter with exceptional endurance.",
           "bounty": 2000000,
           "devil_fruit": "None",
-          "avg_power": 55
+          "avg_power": 55,
+          "img":""
         }
       ]
     },
@@ -366,21 +395,24 @@
           "description": "Captain of the Gally Pirates,middle-aged, average-sized man with a strongly angular face; his most distinguishing feature is his handlebar mustache.",
           "bounty": 3450000,
           "devil_fruit": "None",
-          "avg_power": 20
+          "avg_power": 20,
+          "img":""
         },
         {
           "name": "Member2",
           "description": "First Mate of the Gally Pirates.",
           "bounty": 0,
           "devil_fruit": "None",
-          "avg_power": 15
+          "avg_power": 15,
+          "img":""
         },
         {
           "name": "Member2",
           "description": "Navigator of the Gally Pirates.",
           "bounty": 0,
           "devil_fruit": "None",
-          "avg_power": 15
+          "avg_power": 15,
+          "img":""
         }
       ]
     }

@@ -1,4 +1,6 @@
 const express = require('express');
+const cors = require('cors');
+
 const data = require('./onepiece_eastblue.json'); // Replace 'data.json' with the actual filename and path to your JSON file
 
 require('dotenv').config();
@@ -6,6 +8,8 @@ require('dotenv').config();
 const apiKeyMiddleware = require('./middlewares');
 
 const app = express();
+
+app.use(cors());
 
 app.use(apiKeyMiddleware);
 
