@@ -286,7 +286,7 @@
           "bounty": 3000000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/billy.webp",
+          "img": null,
           "crew": "yes_pirates"
         },
         {
