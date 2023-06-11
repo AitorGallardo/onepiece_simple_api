@@ -1,7 +1,7 @@
 {
   "east_blue_pirate_crews": [
     {
-      "id":1,
+      "id": 1,
       "name": "Straw Hat Pirates",
       "members": [
         {
@@ -10,7 +10,8 @@
           "bounty": 1500000000,
           "devil_fruit": "Gomu Gomu no Mi",
           "avg_power": 90,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/luffy.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/luffy.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Roronoa Zoro",
@@ -18,7 +19,8 @@
           "bounty": 320000000,
           "devil_fruit": "None",
           "avg_power": 85,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/zoro.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/zoro.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Nami",
@@ -26,7 +28,8 @@
           "bounty": 66000000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nami.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nami.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Usopp",
@@ -34,7 +37,8 @@
           "bounty": 200000000,
           "devil_fruit": "None",
           "avg_power": 55,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/usopp.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/usopp.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Sanji",
@@ -42,7 +46,8 @@
           "bounty": 330000000,
           "devil_fruit": "None",
           "avg_power": 80,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/sanji.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/sanji.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Tony Tony Chopper",
@@ -50,7 +55,8 @@
           "bounty": 100,
           "devil_fruit": "Hito Hito no Mi",
           "avg_power": 50,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/chopper.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/chopper.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Nico Robin",
@@ -58,7 +64,8 @@
           "bounty": 130000000,
           "devil_fruit": "Hana Hana no Mi",
           "avg_power": 70,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nico_robin.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nico_robin.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Franky",
@@ -66,7 +73,8 @@
           "bounty": 94000000,
           "devil_fruit": "None",
           "avg_power": 75,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/franky.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/franky.webp",
+          "crew": "straw_hat_pirates"
         },
         {
           "name": "Brook",
@@ -74,12 +82,13 @@
           "bounty": 83000000,
           "devil_fruit": "Yomi Yomi no Mi",
           "avg_power": 65,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/brook.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/brook.webp",
+          "crew": "straw_hat_pirates"
         }
       ]
     },
     {
-      "id":2,
+      "id": 2,
       "name": "Buggy Pirates",
       "members": [
         {
@@ -88,7 +97,8 @@
           "bounty": 150000000,
           "devil_fruit": "Bara Bara no Mi",
           "avg_power": 60,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/buggy.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/buggy.webp",
+          "crew": "buggy_pirates"
         },
         {
           "name": "Alvida",
@@ -96,7 +106,8 @@
           "bounty": 52000000,
           "devil_fruit": "Sube Sube no Mi",
           "avg_power": 45,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/alvida.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/alvida.webp",
+          "crew": "buggy_pirates"
         },
         {
           "name": "Mohji",
@@ -104,7 +115,8 @@
           "bounty": 92000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/mohji.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/mohji.webp",
+          "crew": "buggy_pirates"
         },
         {
           "name": "Cabaji",
@@ -112,7 +124,8 @@
           "bounty": 79000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/cabaji.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/cabaji.webp",
+          "crew": "buggy_pirates"
         },
         {
           "name": "Richie",
@@ -120,7 +133,8 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/richie.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/richie.webp",
+          "crew": "buggy_pirates"
         },
         {
           "name": "Galdino",
@@ -128,7 +142,8 @@
           "bounty": 95000000,
           "devil_fruit": "Doru Doru no Mi",
           "avg_power": 60,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/galdino.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/galdino.webp",
+          "crew": "buggy_pirates"
         },
         {
           "name": "Kinoko",
@@ -136,12 +151,13 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 50,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/kinoko.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/kinoko.webp",
+          "crew": "buggy_pirates"
         }
       ]
     },
     {
-      "id":3,
+      "id": 3,
       "name": "Black Cat Pirates",
       "members": [
         {
@@ -150,7 +166,8 @@
           "bounty": 20000000,
           "devil_fruit": "None",
           "avg_power": 60,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/kuro.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/kuro.webp",
+          "crew": "black_cat_pirates"
         },
         {
           "name": "Jango",
@@ -158,7 +175,8 @@
           "bounty": 9000000,
           "devil_fruit": "None",
           "avg_power": 45,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/jango.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/jango.webp",
+          "crew": "black_cat_pirates"
         },
         {
           "name": "Sham",
@@ -166,7 +184,8 @@
           "bounty": 5000000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/sham.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/sham.webp",
+          "crew": "black_cat_pirates"
         },
         {
           "name": "Buchi",
@@ -174,7 +193,8 @@
           "bounty": 5000000,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/buchi.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/buchi.webp",
+          "crew": "black_cat_pirates"
         },
         {
           "name": "Nugire Yainu",
@@ -182,7 +202,8 @@
           "bounty": 4000000,
           "devil_fruit": "None",
           "avg_power": 30,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nugire.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/nugire_yainu.webp",
+          "crew": "black_cat_pirates"
         },
         {
           "name": "Tajio",
@@ -190,12 +211,13 @@
           "bounty": 1000000,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/tajio.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/tajio.webp",
+          "crew": "black_cat_pirates"
         }
       ]
     },
     {
-      "id":4,
+      "id": 4,
       "name": "Krieg Pirates",
       "members": [
         {
@@ -204,7 +226,8 @@
           "bounty": 17000000,
           "devil_fruit": "None",
           "avg_power": 60,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/krieg.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/krieg.webp",
+          "crew": "krieg_pirates"
         },
         {
           "name": "Gin",
@@ -212,7 +235,8 @@
           "bounty": 12000000,
           "devil_fruit": "None",
           "avg_power": 50,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gin.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gin.webp",
+          "crew": "krieg_pirates"
         },
         {
           "name": "Pearl",
@@ -220,7 +244,8 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 45,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/pearl.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/pearl.webp",
+          "crew": "krieg_pirates"
         },
         {
           "name": "Ideaman",
@@ -228,7 +253,8 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 35,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/ideaman.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/ideaman.webp",
+          "crew": "krieg_pirates"
         },
         {
           "name": "Patty",
@@ -236,7 +262,8 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 25,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/patty.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/patty.webp",
+          "crew": "krieg_pirates"
         },
         {
           "name": "Carne",
@@ -244,12 +271,13 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 30,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/carne.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/carne.webp",
+          "crew": "krieg_pirates"
         }
       ]
     },
     {
-      "id":5,
+      "id": 5,
       "name": "Yes Pirates",
       "members": [
         {
@@ -258,7 +286,8 @@
           "bounty": 3000000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/billy.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/billy.webp",
+          "crew": "yes_pirates"
         },
         {
           "name": "Koze",
@@ -266,7 +295,8 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 20,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/koze.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/koze.webp",
+          "crew": "yes_pirates"
         },
         {
           "name": "Packy",
@@ -274,12 +304,13 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 20,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/packy.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/packy.webp",
+          "crew": "yes_pirates"
         }
       ]
     },
     {
-      "id":6,
+      "id": 6,
       "name": "Bluejam Pirates",
       "members": [
         {
@@ -288,7 +319,8 @@
           "bounty": 14300000,
           "devil_fruit": "None",
           "avg_power": 40,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/bluejam.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/bluejam.webp",
+          "crew": "bluejam_pirates"
         },
         {
           "name": "Porchemy",
@@ -296,12 +328,13 @@
           "bounty": 3400000,
           "devil_fruit": "None",
           "avg_power": 30,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/porchemy.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/porchemy.webp",
+          "crew": "bluejam_pirates"
         }
       ]
     },
     {
-      "id":7,
+      "id": 7,
       "name": "Bartolo Club Pirates",
       "members": [
         {
@@ -310,7 +343,8 @@
           "bounty": 150000000,
           "devil_fruit": "Bari Bari no Mi (Barrier-Barrier Fruit)",
           "avg_power": 80,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/bartolomeo.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/bartolomeo.webp",
+          "crew": "bartolo_club_pirates"
         },
         {
           "name": "Gambia",
@@ -318,12 +352,13 @@
           "bounty": 6000000,
           "devil_fruit": "None",
           "avg_power": 70,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gambia.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gambia.webp",
+          "crew": "bartolo_club_pirates"
         }
       ]
     },
     {
-      "id":8,
+      "id": 8,
       "name": "Gally Pirates",
       "members": [
         {
@@ -332,7 +367,8 @@
           "bounty": 3450000,
           "devil_fruit": "None",
           "avg_power": 20,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally.webp",
+          "crew": "gally_pirates"
         },
         {
           "name": "Member1",
@@ -340,7 +376,8 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 15,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally_member1.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally_member1.webp",
+          "crew": "gally_pirates"
         },
         {
           "name": "Member2",
@@ -348,7 +385,8 @@
           "bounty": 0,
           "devil_fruit": "None",
           "avg_power": 15,
-          "img":"https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally_member2.webp"
+          "img": "https://raw.githubusercontent.com/AitorGallardo/onepiece_simple_api/master/public/gally_member2.webp",
+          "crew": "gally_pirates"
         }
       ]
     }

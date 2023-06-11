@@ -10,7 +10,6 @@ const amountOfPirates = arr.reduce(
   (accumulator, currentValue) => accumulator + currentValue.members.length,
   0,
 );
-console.log('pirate',amountOfPirates);
 
 const apiKeyMiddleware = require('./middlewares');
 
