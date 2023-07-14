@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/api/', (req, res) => {
-  res.status(200).json({ 'Success Request' });
+  res.status(200).json({ message: 'Success Request' });
 });
 
 app.get('/api/crews', (req, res) => {
