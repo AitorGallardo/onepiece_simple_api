@@ -19,10 +19,9 @@ app.use(cors());
 
 // app.use(apiKeyMiddleware);
 
-console.log('chcking api key',process.env.API_KEY);
 
 app.get('/api/', (req, res) => {
-  res.status(200).json({ message: 'Success.' });
+  res.status(200).json({ message: process.env.API_KEY });
 });
 
 app.get('/api/crews', (req, res) => {
