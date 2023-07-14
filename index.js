@@ -17,11 +17,14 @@ const app = express();
 
 app.use(cors());
 
-// app.use(apiKeyMiddleware);
+app.use(apiKeyMiddleware);
 
+app.get('/', (req, res) => {
+  res.send('👋👋👋')
+})
 
 app.get('/api/', (req, res) => {
-  res.status(200).json({ message: process.env.API_KEY });
+  res.status(200).json({ 'Success Request' });
 });
 
 app.get('/api/crews', (req, res) => {
